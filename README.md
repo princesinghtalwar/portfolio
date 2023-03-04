@@ -1,2 +1,2 @@
 # portfolio
-A Portforlio and Blogging site.
+The Portforlio site.
